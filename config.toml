@@ -1,0 +1,17 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "slate"
+
+[ params ]
+OpenLinksInNewWindow = true
+
+[[ params.nav ]]
+name = "equihash"
+tag = "equihash"
+icon = "hashtag"
+
+[[ params.nav ]]
+name = "x16r"
+tag = "x16r"
+icon = "times"

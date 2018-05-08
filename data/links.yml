@@ -1,0 +1,11 @@
+tiles:
+-
+    name: 'BitCoin Private'
+    url: 'https://equihash.hashitmining.com'
+    img: 'btcp.png'
+    tags: ['equihash']
+-
+    name: 'Ravencoin' 
+    url: 'https://x16r.hashitmining.com'
+    img: 'ravencoin.png'
+    tags: ['x16r']
